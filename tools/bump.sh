@@ -38,7 +38,7 @@ GEM_SPEC="jekyll-theme-chirpy.gemspec"
 
 NODE_META="package.json"
 
-DEFAULT_BRANCH="master"
+DEFAULT_BRANCH="main"
 
 _working_branch="$(git branch --show-current)"
 
@@ -57,7 +57,7 @@ check() {
 
   # ensure working on default branch or running in 'manual' mode
   if [[ $_working_branch != $DEFAULT_BRANCH && $opt_manual == "false" ]]; then
-    echo "Error: This operation must be performed on the 'master' branch or '--manual' mode!"
+    echo "Error: This operation must be performed on the 'main' branch or '--manual' mode!"
     exit -1
   fi
 
