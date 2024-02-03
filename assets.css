@@ -587,11 +587,11 @@ code {
 }
 
 /* POST */
-#content article.POST a h2 code {
+#content article.EASY a h2 code {
   color: #52ce0e;
 }
 
-#content article.POST a h2 code b {
+#content article.EASY a h2 code b {
   background: #52ce0e;
 }
 
