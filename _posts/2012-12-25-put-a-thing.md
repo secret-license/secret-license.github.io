@@ -1,6 +1,6 @@
 ---
-category: Stuff
-url_path: '/stuff/:id'
+category: B
+url_path: '/B/:id'
 title: 'Update a thing'
 type: 'NORMAL'
 
