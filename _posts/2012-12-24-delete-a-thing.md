@@ -2,7 +2,7 @@
 category: Stuff
 url_path: '/stuff/:id'
 title: 'Delete a thing'
-type: 'DELETE'
+type: 'HARD'
 
 layout: null
 ---
