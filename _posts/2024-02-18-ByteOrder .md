@@ -1,7 +1,7 @@
 ---
 category: Network
 url_path: '/network/byteorder'
-title: 'BYTE ORDER'
+title: 'Byte Order'
 type: 'NORMAL'
 
 layout: null
