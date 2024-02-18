@@ -1,7 +1,7 @@
 ---
 category: Network
-url_path: '/network/endian'
-title: 'ENDIAN'
+url_path: '/network/byteorder'
+title: 'BYTE ORDER'
 type: 'NORMAL'
 
 layout: null
